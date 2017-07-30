@@ -1,0 +1,10 @@
+<code_scheme name="Default (1)">
+  <option name="GENERATE_FINAL_LOCALS" value="true" />
+  <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="XML">
+    <option name="RIGHT_MARGIN" value="500" />
+  </codeStyleSettings>
+</code_scheme>

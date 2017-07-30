@@ -1,0 +1,193 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Development/Fork/sonar-intellij-plugin" value="1469100856000" />
+            <entry key="$USER_HOME$/Development/Learn/Exercism/kotlin/accumulate" value="1475482390000" />
+            <entry key="$USER_HOME$/Development/Learn/Exercism/kotlin/anagram" value="1475564466000" />
+            <entry key="$USER_HOME$/Development/Learn/Exercism/kotlin/bob" value="1475650157000" />
+            <entry key="$USER_HOME$/Development/Learn/Exercism/kotlin/etl" value="1475332054000" />
+            <entry key="$USER_HOME$/Development/Learn/Exercism/kotlin/gigasecond" value="1475216234000" />
+            <entry key="$USER_HOME$/Development/Learn/Exercism/kotlin/hamming" value="1475648220000" />
+            <entry key="$USER_HOME$/Development/Learn/Exercism/kotlin/hello-world" value="1475180818000" />
+            <entry key="$USER_HOME$/Development/Learn/Exercism/kotlin/isogram" value="1475595739000" />
+            <entry key="$USER_HOME$/Development/Learn/Exercism/kotlin/leap" value="1475819586000" />
+            <entry key="$USER_HOME$/Development/Learn/Exercism/kotlin/pangram" value="1475515309000" />
+            <entry key="$USER_HOME$/Development/Learn/Exercism/kotlin/phone-number" value="1476002842000" />
+            <entry key="$USER_HOME$/Development/Learn/Exercism/kotlin/rna-transcription" value="1475218999000" />
+            <entry key="$USER_HOME$/Development/Learn/Exercism/kotlin/robot-name" value="1475823727000" />
+            <entry key="$USER_HOME$/Development/Learn/Exercism/kotlin/word-count" value="1475409559000" />
+            <entry key="$USER_HOME$/Development/Perso/mobile/kaamelott/server" value="1458592013000" />
+            <entry key="$USER_HOME$/Development/Perso/my-first-apps/jhipster" value="2971387194000" />
+            <entry key="$USER_HOME$/Development/Perso/my-first-apps/tapestry" value="1483909250000" />
+            <entry key="$USER_HOME$/Development/Public/sonar-scanner-gradle" value="2957241274000" />
+            <entry key="$USER_HOME$/Development/Sogilis/Repos/situ8ed-repo" value="8861341238000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.0" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+          <method />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+          <method />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Development/Learn/Exercism/scala/etl" value="1455659842000" />
+            <entry key="$USER_HOME$/Development/Learn/Exercism/scala/grade-school" value="1434435322000" />
+            <entry key="$USER_HOME$/Development/Learn/Exercism/scala/leap" value="1452342450000" />
+            <entry key="$USER_HOME$/Development/Learn/Exercism/scala/meetup" value="1455664000000" />
+            <entry key="$USER_HOME$/Development/Learn/Exercism/scala/robot-name" value="1452335153000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

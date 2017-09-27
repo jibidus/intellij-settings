@@ -8,7 +8,7 @@
       <package name="javax.swing" withSubpackages="false" static="false" />
     </value>
   </option>
-  <option name="HTML_KEEP_WHITESPACES_INSIDE" value="span,pre,textarea,script" />
+  <option name="HTML_KEEP_WHITESPACES_INSIDE" value="span,pre,textarea,script,style" />
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>

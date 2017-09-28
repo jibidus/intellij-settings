@@ -15,4 +15,9 @@
   <codeStyleSettings language="XML">
     <option name="RIGHT_MARGIN" value="500" />
   </codeStyleSettings>
+  <codeStyleSettings language="yaml">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>

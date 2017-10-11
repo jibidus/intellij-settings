@@ -18,6 +18,9 @@
   </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>

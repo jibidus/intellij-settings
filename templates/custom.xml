@@ -1,5 +1,5 @@
 <templateSet group="custom">
-  <template name="builder" value="public $BUILDERCLASS$ $ATTRIBUTE$($ATTRIBUTETYPE$ $ATTRIBUTE$) {&#10;    this.$ATTRIBUTE$ = $ATTRIBUTE$;&#10;    return this;&#10;}&#10;$END$" toReformat="false" toShortenFQNames="true">
+  <template name="builder" value="public $BUILDERCLASS$ $ATTRIBUTE$($ATTRIBUTETYPE$ $ATTRIBUTE$) {&#10;    this.$ATTRIBUTE$ = $ATTRIBUTE$;&#10;    return this;&#10;}&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="BUILDERCLASS" expression="className(sClassName)" defaultValue="" alwaysStopAt="false" />
     <variable name="ATTRIBUTE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ATTRIBUTETYPE" expression="" defaultValue="String" alwaysStopAt="true" />

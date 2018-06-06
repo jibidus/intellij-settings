@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Production Files" />
-    <option name="defaultScopeName" value="Project Production Files" />
-    <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="customScope" value="File '~/Development/Sogilis/Repos/EIOSIS/slate-webapp/src/main/java/com/slate/shop/pace/PaceGatewayImpl.kt [slatedigital]'" />
+    <option name="defaultScopeName" value="File '~/Development/Sogilis/Repos/EIOSIS/slate-webapp/src/main/java/com/slate/shop/pace/PaceGatewayImpl.kt [slatedigital]'" />
+    <option name="SEARCH_SCOPE" value="File '~/Development/Sogilis/Repos/EIOSIS/slate-webapp/src/main/java/com/slate/shop/pace/PaceGatewayImpl.kt [slatedigital]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>

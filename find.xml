@@ -3,7 +3,7 @@
     <option name="customScope" value="Files in Previous Search Result" />
     <option name="defaultScopeName" value="Files in Previous Search Result" />
     <option name="SEARCH_SCOPE" value="Files in Previous Search Result" />
-    <option name="FILE_MASK" value="*.kt,*.java" />
+    <option name="FILE_MASK" value="*.kt,*.java,*.sql" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,5 +16,6 @@
     <mask>*.sql</mask>
     <mask>*.kt</mask>
     <mask>*.kt,*.java</mask>
+    <mask>*.kt,*.java,*.sql</mask>
   </component>
 </application>

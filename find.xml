@@ -16,5 +16,6 @@
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.kt</mask>
+    <mask>*Resource.*</mask>
   </component>
 </application>

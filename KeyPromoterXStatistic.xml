@@ -9,11 +9,27 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Project Structure...">
+        <Item>
+          <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
+          <ShortCut>'⌘;'</ShortCut>
+          <Description>Project Structure...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'pqgenerators-operations [org.springframework.boot:spring-boot-maven-plugin:1.5.10.RELEASE:run]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'pqgenerators-operations [org.springframework.boot:spring-boot-maven-plugin:1.5.10.RELEASE:run]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'⌘4'</ShortCut>
+          <Description>Run</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

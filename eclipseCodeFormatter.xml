@@ -3,7 +3,6 @@
     <option name="settingsList">
       <list>
         <Settings>
-          <option name="defaultSettings" value="true" />
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1493888016281" />
           <option name="importOrderConfigFilePath" value="$USER_HOME$/Development/Sogilis/Repos/Netceler/tools-intellij/eclipse_code_formatter/netceler.importorder" />
@@ -11,10 +10,6 @@
           <option name="name" value="default" />
           <option name="pathToConfigFileJava" value="$USER_HOME$/Development/Sogilis/Repos/Netceler/tools-intellij/eclipse_code_formatter/netceler.xml" />
           <option name="selectedJavaProfile" value="NetCeler" />
-        </Settings>
-        <Settings>
-          <option name="id" value="1493888118529" />
-          <option name="name" value="new" />
         </Settings>
         <Settings>
           <option name="formatter" value="ECLIPSE" />

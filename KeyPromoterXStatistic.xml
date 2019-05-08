@@ -22,6 +22,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'OperationsApplicationE2ETest.job_registration_and_unregistration'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'OperationsApplicationE2ETest.success_operation'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'OperationsApplicationE2ETest.success_operation'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -30,7 +38,31 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'job_registration_a...()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'retry_operation_in...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'retry_operation_in...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'success_operation()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'success_operation()'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Evaluate Expression...">
+        <Item>
+          <IdeaActionID>EvaluateExpression</IdeaActionID>
+          <ShortCut>'⌥F8'</ShortCut>
+          <Description>Evaluate Expression...</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute Maven Goal">
@@ -46,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>GoTo</Description>
-          <Count>66</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -62,7 +94,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>6</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -81,12 +113,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OperationsApplicationE2ETest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OperationsApplicationE2ETest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'OperationsApplicationE2ETest.job_registration_and_unregistration'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OperationsApplicationE2ETest.job_registration_and_unregistration'</Description>
-          <Count>16</Count>
+          <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OperationsApplicationE2ETest.retry_operation_in_case_of_failure'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OperationsApplicationE2ETest.retry_operation_in_case_of_failure'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OperationsApplicationE2ETest.scenario1'">
@@ -95,6 +143,22 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OperationsApplicationE2ETest.scenario1'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OperationsApplicationE2ETest.success_operation'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OperationsApplicationE2ETest.success_operation'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Rerun Failed Tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Rerun Failed Tests'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'pqgenerators-operations [org.springframework.boot:spring-boot-maven-plugin:1.5.10.RELEASE:run]'">
@@ -110,7 +174,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>24</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -126,7 +190,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>15</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OperationsApplication'">
@@ -142,7 +206,23 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'OperationsApplicationE2ETest.job_registration_and_unregistration'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OperationsApplicationE2ETest.retry_operation_in_case_of_failure'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'OperationsApplicationE2ETest.retry_operation_in_case_of_failure'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OperationsApplicationE2ETest.success_operation'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'OperationsApplicationE2ETest.success_operation'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'pqgenerators-operations [org.springframework.boot:spring-boot-maven-plugin:1.5.10.RELEASE:run]'">
@@ -166,7 +246,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>12</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">

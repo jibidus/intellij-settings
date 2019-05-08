@@ -1,0 +1,6 @@
+<templateSet group="java">
+  <template name="psf" value="private static final $TYPE$ $VARIABLE_NAME$;" description="private static final" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARIABLE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

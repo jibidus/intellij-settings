@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -353,6 +353,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'pqgenerators-operations [clean,test...]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'pqgenerators-operations [clean,test...]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'pqgenerators-operations [org.springframework.boot:spring-boot-maven-plugin:1.5.10.RELEASE:run]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -374,7 +382,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Undefined">

@@ -1,5 +1,5 @@
 <templateSet group="surround">
-  <template name="df" value="//@formatter:off &#10;$SELECTION$&#10;//@formatter:on" description="Surround with //@formatter:off" toReformat="true" toShortenFQNames="true">
+  <template name="df" value="//@formatter:off&#10;$SELECTION$&#10;//@formatter:on" description="Surround with //@formatter:off" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>

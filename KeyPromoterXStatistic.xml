@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>18</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -151,6 +151,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OperationsApplication'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OperationsApplicationE2EOracleTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OperationsApplicationE2EOracleTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OperationsApplicationE2EOracleTest.operation_is_scheduled_according_to_given_cron_expression'">
@@ -358,6 +366,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'OperationsApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OperationsApplicationE2EOracleTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'OperationsApplicationE2EOracleTest'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>

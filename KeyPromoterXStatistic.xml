@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>123</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -222,7 +222,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OperationsApplicationE2ETest'</Description>
-          <Count>23</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OperationsApplicationE2ETest.job_registration_and_unregistration'">

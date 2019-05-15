@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -399,6 +399,14 @@
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All Tests'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'All Tests'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ApiControllerIntTest'">
@@ -679,6 +687,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'OperationsManagerTest.testCreateStartedAndSuccess'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SIQUAEL - LOCAL'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SIQUAEL - LOCAL'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.netceler.ivpower.operations in pqgenerators-operations'">

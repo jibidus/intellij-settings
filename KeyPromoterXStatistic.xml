@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>17</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>142</Count>
+          <Count>145</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -177,11 +177,27 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'DisturbanceReportServiceTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DisturbanceReportServiceTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'FtpConnectionIndicatorTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FtpConnectionIndicatorTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FtpConnectionIndicatorTest.should_not_be_healthy'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FtpConnectionIndicatorTest.should_not_be_healthy'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -198,7 +214,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OperationsApplicationE2EOracleTest'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OperationsApplicationE2EOracleTest.operation_is_scheduled_according_to_given_cron_expression'">
@@ -318,6 +334,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'com.netceler.ivpower.operations in pqgenerators-operations'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'com.netceler.ivpower.siquael.service in siquael-service'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'com.netceler.ivpower.siquael.service in siquael-service'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -449,6 +473,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Tests in 'com.netceler.ivpower.siquael.service''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'com.netceler.ivpower.siquael.service''</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'com.netceler.ivpower.operations in pqgenerators-operations'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -494,6 +526,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'register_returns_4...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'should_not_be_heal...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'should_not_be_heal...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -598,6 +638,22 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'com.netceler.ivpower.operations in pqgenerators-operations'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'com.netceler.ivpower.siquael.service in siquael-service'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'com.netceler.ivpower.siquael.service in siquael-service'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'pqgenerators-operations [clean,install...]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'pqgenerators-operations [clean,install...]'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>186</Count>
+          <Count>187</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -582,7 +582,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'SIQUAEL &gt; Oracle LOCAL | ConfigManager REMOTE (from Home)'</Description>
-          <Count>4</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SIQUAEL &gt; Oracle LOCAL | ConfigManager REMOTE'">
@@ -822,7 +822,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SIQUAEL &gt; Oracle LOCAL | ConfigManager REMOTE (from Home)'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.netceler.ivpower.operations in pqgenerators-operations'">
@@ -862,7 +862,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'pqgenerators-operations [clean,install]'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'pqgenerators-operations [clean,test...]'">

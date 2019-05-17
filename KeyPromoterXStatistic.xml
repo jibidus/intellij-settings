@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>38</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>204</Count>
+          <Count>209</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -361,6 +361,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'PQGenerators &gt; Oracle LOCAL | ConfigManager REMOTE (from Sogilis)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'PQGenerators &gt; Oracle LOCAL | ConfigManager REMOTE (from Sogilis)'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Rerun Failed Tests'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -559,6 +567,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'OperationsManagerTest.testCreateStartedAndSuccess'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PQGenerators &gt; Oracle LOCAL | ConfigManager REMOTE (from Sogilis)'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'PQGenerators &gt; Oracle LOCAL | ConfigManager REMOTE (from Sogilis)'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SIQUAEL - LOCAL'">
@@ -799,6 +815,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'OperationsManagerTest.testCreateStartedAndSuccess'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PQGenerators &gt; Oracle LOCAL | ConfigManager REMOTE (from Sogilis)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PQGenerators &gt; Oracle LOCAL | ConfigManager REMOTE (from Sogilis)'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SIQUAEL - LOCAL'">

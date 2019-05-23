@@ -1318,7 +1318,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SIQUAEL &gt; Oracle LOCAL | ConfigManager REMOTE (from Home)'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SIQUAEL &gt; Oracle LOCAL | ConfigManager REMOTE (from Sogilis)'">

@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>102</Count>
+          <Count>109</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -30,6 +30,14 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Path">
+        <Item>
+          <IdeaActionID>CopyPaths</IdeaActionID>
+          <ShortCut>'⇧⌘C'</ShortCut>
+          <Description>Copy Path</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -182,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>463</Count>
+          <Count>469</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -206,6 +214,14 @@
           <IdeaActionID>DBNavigator.Actions.Execute</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Execute Statement</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'⌥F7'</ShortCut>
+          <Description>Find Usages</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -262,7 +278,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>85</Count>
+          <Count>87</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -326,7 +342,15 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'DisturbanceReportServiceTest'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DisturbanceReportServiceTest.should_generate_empty_report'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DisturbanceReportServiceTest.should_generate_empty_report'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FtpConnectionIndicatorTest'">
@@ -382,7 +406,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OperationsApplication'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OperationsApplicationE2EOracleTest'">
@@ -537,6 +561,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ReportControllerTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ReportControllerTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ReportControllerTest.exportStatisticsReport'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -574,7 +606,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'SIQUAEL &gt; Oracle LOCAL | ConfigManager REMOTE (from Home)'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SIQUAEL &gt; Oracle LOCAL | ConfigManager REMOTE (from Sogilis)'">
@@ -622,6 +654,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'StatisticReportServiceTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'StatisticsExportOperationExecutorTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'StatisticsExportOperationExecutorTest'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -710,7 +750,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>15</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -745,12 +785,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'DisturbanceReportServiceTest.should_generate_empty_report'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'DisturbanceReportServiceTest.should_generate_empty_report'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'JobRepositoryTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'JobRepositoryTest'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OperationsApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'OperationsApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'OperationsApplicationE2EOracleTest'">
@@ -862,7 +918,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'SIQUAEL &gt; Oracle LOCAL | ConfigManager REMOTE (from Home)'</Description>
-          <Count>16</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SIQUAEL &gt; Oracle LOCAL | ConfigManager REMOTE (from Sogilis)'">
@@ -902,6 +958,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'StatisticReportServiceTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'StatisticsExportOperationExecutorTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'StatisticsExportOperationExecutorTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1009,6 +1073,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'should_generate_em...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'should_generate_em...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'should_not_be_heal...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1054,7 +1126,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'OperationsApplication'</Description>
-          <Count>5</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OperationsApplicationE2EOracleTest'">
@@ -1206,7 +1278,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SIQUAEL &gt; Oracle LOCAL | ConfigManager REMOTE (from Home)'</Description>
-          <Count>9</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SIQUAEL &gt; Oracle LOCAL | ConfigManager REMOTE (from Sogilis)'">
@@ -1302,6 +1374,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'pqgenerators-service [clean...]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'siquael-service [clean,clean,install]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'siquael-service [clean,clean,install]'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

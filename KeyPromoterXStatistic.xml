@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>109</Count>
+          <Count>115</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>470</Count>
+          <Count>477</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -326,7 +326,15 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ApiControllerIntTest.origins'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ApiControllerIntTest.register'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ApiControllerIntTest.register'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ApiControllerTest'">
@@ -366,7 +374,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FtpConnectionIndicatorTest'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FtpConnectionIndicatorTest.should_not_be_healthy'">
@@ -791,6 +799,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'ApiControllerIntTest.origins'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ApiControllerIntTest.register'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ApiControllerIntTest.register'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ApiControllerTest'">

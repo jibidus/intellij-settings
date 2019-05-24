@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>139</Count>
+          <Count>141</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -686,7 +686,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'SIQUAEL &gt; Oracle LOCAL | ConfigManager REMOTE (from Sogilis)'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SIQUAEL &gt; Oracle LOCAL | ConfigManager REMOTE'">
@@ -1030,7 +1030,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'SIQUAEL &gt; Oracle LOCAL | ConfigManager REMOTE (from Sogilis)'</Description>
-          <Count>19</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SIQUAEL &gt; Oracle LOCAL | ConfigManager REMOTE'">
@@ -1430,7 +1430,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SIQUAEL &gt; Oracle LOCAL | ConfigManager REMOTE (from Sogilis)'</Description>
-          <Count>16</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SchedulingServiceTest.updateScheduling_register_two_jobs_by_region'">

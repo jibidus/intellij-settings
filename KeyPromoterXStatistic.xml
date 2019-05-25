@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>157</Count>
+          <Count>159</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -1022,7 +1022,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Home &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>7</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Home &gt; PQGenerators : Oracle LOCAL + ConfigManager Wiremock'">
@@ -1345,6 +1345,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'measurement_distur...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'measurement_distur...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'operation_is_sched...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1470,7 +1478,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Home &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>7</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Home &gt; PQGenerators : Oracle LOCAL + ConfigManager Wiremock'">

@@ -145,6 +145,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'general_settings_i...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'general_settings_i...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'generate()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -238,7 +246,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>600</Count>
+          <Count>618</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -326,7 +334,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>100</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -415,6 +423,30 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ConfigurationProviderTest.addAll'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ConfigurationUpdateIntTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ConfigurationUpdateIntTest'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ConfigurationUpdateIntTest.general_settings_is_updated_when_receiving_new_notification'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ConfigurationUpdateIntTest.general_settings_is_updated_when_receiving_new_notification'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ConfigurationUpdateIntTest.regions_is_updated_when_receiving_new_notification'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ConfigurationUpdateIntTest.regions_is_updated_when_receiving_new_notification'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ConfigurationUpdaterUnitTest.update_dispatches_region'">
@@ -846,7 +878,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>103</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -918,6 +950,22 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'ApiControllerTest.operations_format_dates'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ConfigurationUpdateIntTest.general_sett…_updated_when_receiving_new_notification'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ConfigurationUpdateIntTest.general_sett…_updated_when_receiving_new_notification'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ConfigurationUpdateIntTest.regions_is_updated_when_receiving_new_notification'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ConfigurationUpdateIntTest.regions_is_updated_when_receiving_new_notification'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1329,6 +1377,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ConfigurationUpdateIntTest.general_settings_is_updated_when_receiving_new_notification'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ConfigurationUpdateIntTest.general_settings_is_updated_when_receiving_new_notification'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'FtpConnectionIndicatorTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1630,7 +1686,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>75</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

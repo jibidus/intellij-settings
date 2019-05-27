@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>180</Count>
+          <Count>181</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -270,7 +270,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>704</Count>
+          <Count>705</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -358,7 +358,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>106</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -870,7 +870,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Sogilis &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'StatisticReportServiceTest'">
@@ -982,7 +982,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1302,7 +1302,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Sogilis &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>5</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Sogilis &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'">
@@ -1310,7 +1310,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Sogilis &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>7</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'StatisticReportServiceTest'">
@@ -1782,7 +1782,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Sogilis &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Sogilis &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'">
@@ -1790,7 +1790,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Sogilis &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>5</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TrialRepositoryTest.findLastErrorMessage_returns_null_when_single_successful_trial'">

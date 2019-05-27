@@ -270,7 +270,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>689</Count>
+          <Count>693</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -358,7 +358,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>104</Count>
+          <Count>105</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">

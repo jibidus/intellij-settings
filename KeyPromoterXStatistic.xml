@@ -270,7 +270,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>675</Count>
+          <Count>682</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -574,6 +574,30 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'JobRepositoryTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OperationRepositoryTest.findAll_filters_by_origin'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OperationRepositoryTest.findAll_filters_by_origin'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OperationRepositoryTest.findAll_paginates_result'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OperationRepositoryTest.findAll_paginates_result'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OperationRepositoryTest.findAll_sorts'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OperationRepositoryTest.findAll_sorts'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1078,6 +1102,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'MeasurementStatisticProcessorFromCSVTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OperationRepositoryTest.findAll_filters_by_origin'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'OperationRepositoryTest.findAll_filters_by_origin'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

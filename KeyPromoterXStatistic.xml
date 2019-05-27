@@ -270,7 +270,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>693</Count>
+          <Count>695</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -462,7 +462,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ConfigurationUpdateIntTest'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ConfigurationUpdateIntTest.general_settings_is_updated_when_receiving_new_notification'">
@@ -865,6 +865,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Sogilis &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Sogilis &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'StatisticReportServiceTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1041,6 +1049,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ConfigurationUpdateIntTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ConfigurationUpdateIntTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ConfigurationUpdateIntTest.general_sett…_updated_when_receiving_new_notification'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1070,7 +1086,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Home &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Home &gt; PQGenerators : Oracle LOCAL + ConfigManager Wiremock'">
@@ -1281,12 +1297,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Sogilis &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'Sogilis &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Sogilis &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Sogilis &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>3</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'StatisticReportServiceTest'">
@@ -1529,6 +1553,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ConfigurationUpdateIntTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ConfigurationUpdateIntTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ConfigurationUpdateIntTest.general_settings_is_updated_when_receiving_new_notification'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1550,7 +1582,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Home &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Home &gt; PQGenerators : Oracle LOCAL + ConfigManager Wiremock'">
@@ -1745,12 +1777,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Sogilis &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Sogilis &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Sogilis &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Sogilis &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TrialRepositoryTest.findLastErrorMessage_returns_null_when_single_successful_trial'">

@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>181</Count>
+          <Count>184</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -270,7 +270,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>705</Count>
+          <Count>709</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -718,7 +718,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OperationsManagerTest'</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OperationsManagerTest.testCreateStartedAndError'">

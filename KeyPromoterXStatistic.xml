@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>763</Count>
+          <Count>768</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -406,7 +406,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ApiControllerIntTest'</Description>
-          <Count>14</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ApiControllerIntTest.getOperations_filters_origin'">
@@ -606,6 +606,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Home &gt; PQGenerators &gt; Oracle LOCAL | ConfigManager REMOTE'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Home &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Home &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1062,7 +1070,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ApiControllerIntTest'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ApiControllerIntTest.getOperations_filters_origin'">
@@ -1222,7 +1230,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'OperationsApplicationE2EOracleTest'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'OperationsApplicationE2EOracleTest.oper…duled_according_to_given_cron_expression'">
@@ -1694,6 +1702,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Home &gt; PQGenerators &gt; Oracle LOCAL | ConfigManager REMOTE'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Home &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Home &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

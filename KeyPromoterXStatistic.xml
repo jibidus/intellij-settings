@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>761</Count>
+          <Count>763</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -374,7 +374,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>115</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1175,6 +1175,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Home &gt; PQGenerators &gt; Oracle LOCAL | ConfigManager REMOTE'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Home &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'Home &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'JobRepositoryTest'">

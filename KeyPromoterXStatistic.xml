@@ -1961,6 +1961,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'pqgenerators-operations [clean,package]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'pqgenerators-operations [clean,package]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'pqgenerators-operations [clean,test...]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>

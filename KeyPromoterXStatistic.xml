@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>768</Count>
+          <Count>769</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -598,7 +598,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Home &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Home &gt; PQGenerators &gt; Oracle LOCAL | ConfigManager REMOTE'">
@@ -1166,7 +1166,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Home &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>16</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Home &gt; PQGenerators : Oracle LOCAL + ConfigManager Wiremock'">
@@ -1190,7 +1190,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Home &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'JobRepositoryTest'">
@@ -1686,7 +1686,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Home &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>14</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Home &gt; PQGenerators : Oracle LOCAL + ConfigManager Wiremock'">
@@ -1710,7 +1710,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Home &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OperationsApplication'">

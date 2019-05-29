@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>778</Count>
+          <Count>785</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -294,7 +294,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute Maven Goal">
@@ -494,6 +494,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ApiControllerTest.operations_returns_current_page_in_header'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ApiControllerTest.operations_sorts_by_default_by_scheduledDate'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ApiControllerTest.operations_sorts_by_default_by_scheduledDate'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -1137,6 +1145,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ApiControllerTest.operations_sorts_by_default_by_scheduledDate'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ApiControllerTest.operations_sorts_by_default_by_scheduledDate'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ConfigurationUpdateIntTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1673,6 +1689,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ApiControllerTest.operations_sorts_by_default_by_scheduledDate'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ApiControllerTest.operations_sorts_by_default_by_scheduledDate'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ConfigurationUpdateIntTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2030,7 +2054,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>98</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

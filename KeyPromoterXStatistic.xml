@@ -302,7 +302,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>838</Count>
+          <Count>842</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -1502,7 +1502,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Sogilis &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>16</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'StatisticReportServiceTest'">
@@ -2054,7 +2054,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Sogilis &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>13</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TrialRepositoryTest.findLastErrorMessage_returns_null_when_single_successful_trial'">

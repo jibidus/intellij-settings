@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>799</Count>
+          <Count>806</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -511,6 +511,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ApiControllerTest.operations_sorts_by_default_by_scheduledDate'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ApiControllerTest.operations_sorts_by_default_by_scheduledDate_desc'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ApiControllerTest.operations_sorts_by_default_by_scheduledDate_desc'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ConfigurationProviderTest.addAll'">
@@ -1201,6 +1209,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'FtpServiceIntTest.send_creates_missing_directory'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'FtpServiceIntTest.send_creates_missing_directory'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'FtpServiceIntTest.test'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1446,7 +1462,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Sogilis &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Sogilis &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'">
@@ -1495,6 +1511,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'com.netceler.ivpower.operations.service''</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tests in 'com.netceler.ivpower.operations.service.controllers''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'com.netceler.ivpower.operations.service.controllers''</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'com.netceler.ivpower.pqgenerators.service''">
@@ -1966,7 +1990,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Sogilis &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Sogilis &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'">

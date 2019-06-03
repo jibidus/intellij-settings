@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>194</Count>
+          <Count>195</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -1438,6 +1438,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'PQGeneratorsApplicationE2ETest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RegionJobBuilderTest.build'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'RegionJobBuilderTest.build'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

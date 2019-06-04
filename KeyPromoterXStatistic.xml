@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>196</Count>
+          <Count>199</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -310,7 +310,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>862</Count>
+          <Count>866</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -703,6 +703,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'JobsManagerJpaIntTest.register_with_first_data_in_past_creates_operation_scheduled_in_the_future'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OperationRepositoryJpaTest.findDistinctScopes_returns_distinct_scopes'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OperationRepositoryJpaTest.findDistinctScopes_returns_distinct_scopes'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OperationRepositoryTest.findAll_filters_by_origin'">
@@ -1158,7 +1166,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>24</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1174,7 +1182,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ApiControllerIntTest'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ApiControllerIntTest.getOperations_filters_origin'">
@@ -1318,7 +1326,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Home &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'JobRepositoryTest'">
@@ -1902,7 +1910,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Home &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'JobsManagerJpaIntTest.register_with_first_data_in_past_create_scheduled_operation_in_future_for_next_trigger'">

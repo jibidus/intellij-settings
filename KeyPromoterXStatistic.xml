@@ -310,7 +310,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>870</Count>
+          <Count>872</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -431,6 +431,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ApiControllerIntTest'</Description>
           <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ApiControllerIntTest.getOperationsPage_returns_corresponding_page_index'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ApiControllerIntTest.getOperationsPage_returns_corresponding_page_index'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ApiControllerIntTest.getOperations_filters_origin'">

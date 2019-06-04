@@ -318,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>877</Count>
+          <Count>878</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -511,6 +511,22 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ApiControllerTest'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ApiControllerTest.operationsPage_filters_by_origin_dates_and_status'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ApiControllerTest.operationsPage_filters_by_origin_dates_and_status'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ApiControllerTest.operationsPage_returns_first_page_index'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ApiControllerTest.operationsPage_returns_first_page_index'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ApiControllerTest.operations_filters_from_date'">

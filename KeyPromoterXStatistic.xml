@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>199</Count>
+          <Count>205</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -326,7 +326,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>888</Count>
+          <Count>897</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -769,6 +769,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OperationControllerIntTest.operation_returns_not_found_when_no_operation_with_given_operation_id'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OperationControllerIntTest.operation_returns_not_found_when_no_operation_with_given_operation_id'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OperationControllerIntTest.operation_returns_operation_from_given_id'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OperationControllerIntTest.operation_returns_operation_from_given_id'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'OperationRepositoryJpaTest.findDistinctScopes_returns_distinct_scopes'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1030,7 +1046,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ReportControllerTest'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ReportControllerTest.exportStatisticsReport'">
@@ -1561,6 +1577,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'OperationsManagerWebIntTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'OperationsManagerWebIntTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'PQGenerators &gt; Oracl...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1734,7 +1758,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'com.netceler.ivpower.operations.service.controllers''</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'com.netceler.ivpower.operations.service.services''">
@@ -2094,6 +2118,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'JobsManagerJpaIntTest.register_with_first_data_in_past_create_scheduled_operation_in_future_for_next_trigger'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OperationControllerIntTest.operation_returns_not_found_when_no_operation_with_given_operation_id'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'OperationControllerIntTest.operation_returns_not_found_when_no_operation_with_given_operation_id'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

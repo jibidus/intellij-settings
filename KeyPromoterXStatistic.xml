@@ -318,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>880</Count>
+          <Count>884</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -926,6 +926,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OperationsManagerJpaIntTest.findAll_matches_all_scopes'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OperationsManagerJpaIntTest.findFirstPageWhereScheduledDate_with_asc_scheduledDate'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OperationsManagerJpaIntTest.findFirstPageWhereScheduledDate_with_asc_scheduledDate'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2095,6 +2103,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'OperationsApplicationE2ETest.success_operation'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OperationsManagerJpaIntTest.findFirstPageWhereScheduledDate_with_asc_scheduledDate'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'OperationsManagerJpaIntTest.findFirstPageWhereScheduledDate_with_asc_scheduledDate'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OperationsManagerTest'">

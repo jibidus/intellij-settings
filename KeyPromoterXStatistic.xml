@@ -201,6 +201,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'getOperationsPage_...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'getOperationsPage_...()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'getOperations_filt...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -310,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>872</Count>
+          <Count>877</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -438,7 +446,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ApiControllerIntTest.getOperationsPage_returns_corresponding_page_index'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ApiControllerIntTest.getOperations_filters_origin'">
@@ -1158,7 +1166,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>124</Count>
+          <Count>127</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1191,6 +1199,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ApiControllerIntTest'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ApiControllerIntTest.getOperationsPage_returns_corresponding_page_index'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ApiControllerIntTest.getOperationsPage_returns_corresponding_page_index'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ApiControllerIntTest.getOperations_filters_origin'">
@@ -1697,6 +1713,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'getOperationsPage_...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'getOperationsPage_...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'job_registration_a...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1777,12 +1801,20 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Step Out">
+        <Item>
+          <IdeaActionID>StepOut</IdeaActionID>
+          <ShortCut>'⇧F8'</ShortCut>
+          <Description>Step Out</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Step Over">
         <Item>
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>84</Count>
+          <Count>89</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ApiControllerIntTest'">
@@ -1791,6 +1823,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ApiControllerIntTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ApiControllerIntTest.getOperationsPage_returns_corresponding_page_index'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ApiControllerIntTest.getOperationsPage_returns_corresponding_page_index'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ApiControllerIntTest.getOperations_filters_origin'">
@@ -2254,7 +2294,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>107</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

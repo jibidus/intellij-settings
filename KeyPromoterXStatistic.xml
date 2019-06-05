@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>205</Count>
+          <Count>208</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -1550,7 +1550,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'OperationsManagerJpaIntTest'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'OperationsManagerJpaIntTest.findFirstPa…ate_returns_null_when_no_operation_match'">
@@ -1566,7 +1566,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'OperationsManagerTest'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'OperationsManagerTest.testCreateStartedAndSuccess'">
@@ -1582,7 +1582,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'OperationsManagerWebIntTest'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PQGenerators &gt; Oracl...'">
@@ -1758,7 +1758,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'com.netceler.ivpower.operations.service.controllers''</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'com.netceler.ivpower.operations.service.services''">

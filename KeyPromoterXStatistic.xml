@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>218</Count>
+          <Count>221</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -1566,6 +1566,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'OperationsApplicationE2ETest.job_registration_and_unregistration'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OperationsManagerJpa...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'OperationsManagerJpa...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

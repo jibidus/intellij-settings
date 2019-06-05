@@ -1009,6 +1009,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OperationsManagerWebIntTest.cancel'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OperationsManagerWebIntTest.cancel'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PQGenerators &gt; Oracle LOCAL | ConfigManager REMOTE (from Sogilis)'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>

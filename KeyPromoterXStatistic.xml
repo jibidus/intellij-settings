@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>228</Count>
+          <Count>229</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -358,7 +358,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>993</Count>
+          <Count>999</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -1081,6 +1081,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OperationsManagerTest.execute_creates_missing_operation'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OperationsManagerTest.execute_creates_missing_operation'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'OperationsManagerTest.testCreateStartedAndError'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1358,7 +1366,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1430,6 +1438,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ApiControllerTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ApiControllerTest.cancelMeasurementComputation'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ApiControllerTest.cancelMeasurementComputation'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -1575,6 +1591,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'OperationExecutorServiceIntTest.submit_…us_even_if_execution_throws_an_exception'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OperationExecutorServiceTest.cancel'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'OperationExecutorServiceTest.cancel'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'OperationRepositoryTest.findAll_filters_by_origin'">
@@ -1734,7 +1758,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'ReportControllerTest'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SIQUAEL - LOCAL'">
@@ -2385,6 +2409,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'OperationsManagerTest.execute_creates_missing_operation'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'OperationsManagerTest.execute_creates_missing_operation'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'OperationsManagerTest.testCreateStartedAndSuccess'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2430,6 +2462,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'RegionJobBuilderTest.build'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ReportControllerTest.cancelMeasurementComputation'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ReportControllerTest.cancelMeasurementComputation'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2630,7 +2670,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>135</Count>
+          <Count>137</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

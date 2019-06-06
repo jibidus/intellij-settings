@@ -185,6 +185,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'cancel()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'cancel()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'findFirstPageWhere...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -350,7 +358,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>987</Count>
+          <Count>993</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -446,7 +454,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>132</Count>
+          <Count>133</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1094,7 +1102,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OperationsManagerWebIntTest.cancel'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PQGenerators &gt; Oracle LOCAL | ConfigManager REMOTE (from Sogilis)'">
@@ -1937,6 +1945,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'cancel()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'cancel()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'com.netceler.ivpower.operations in pqgenerators-operations'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -2377,6 +2393,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'OperationsManagerWebIntTest.cancel'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'OperationsManagerWebIntTest.cancel'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'PQGenerators &gt; Oracle LOCAL | ConfigManager REMOTE (from Sogilis)'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2606,7 +2630,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>130</Count>
+          <Count>135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

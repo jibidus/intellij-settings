@@ -310,7 +310,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'submit_commits_tra...()'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'success_operation()'">
@@ -350,7 +350,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>986</Count>
+          <Count>987</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -358,7 +358,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>28</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute Maven Goal">
@@ -446,7 +446,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>130</Count>
+          <Count>132</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -830,7 +830,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OperationExecutorServiceIntTest.submit_commits_transaction_and_updates_operation_status_even_if_execution_throws_an_exception'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OperationExecutorServiceIntTest.submit_commits_transaction_when_updates_operation_status_when_execution_fail'">
@@ -1334,7 +1334,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>135</Count>
+          <Count>141</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1558,6 +1558,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'MeasurementStatisticProcessorFromCSVTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OperationExecutorServiceIntTest.submit_…us_even_if_execution_throws_an_exception'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'OperationExecutorServiceIntTest.submit_…us_even_if_execution_throws_an_exception'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2054,7 +2062,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>127</Count>
+          <Count>128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ApiControllerIntTest'">
@@ -2239,6 +2247,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'OperationControllerIntTest.operation_returns_not_found_when_no_operation_with_given_operation_id'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OperationExecutorServiceIntTest.submit_commits_transaction_and_updates_operation_status_even_if_execution_throws_an_exception'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'OperationExecutorServiceIntTest.submit_commits_transaction_and_updates_operation_status_even_if_execution_throws_an_exception'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OperationsApplication'">
@@ -2590,7 +2606,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>123</Count>
+          <Count>130</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

@@ -97,6 +97,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'OperationExecutorServiceIntTest'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'OperationExecutorServiceIntTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'OperationsApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -297,6 +305,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'submit_commits_tra...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'submit_commits_tra...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'success_operation()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -334,7 +350,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>979</Count>
+          <Count>986</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -807,6 +823,22 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OperationControllerIntTest.operation_returns_operation_from_given_id'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OperationExecutorServiceIntTest.submit_commits_transaction_and_updates_operation_status_even_if_execution_throws_an_exception'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OperationExecutorServiceIntTest.submit_commits_transaction_and_updates_operation_status_even_if_execution_throws_an_exception'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OperationExecutorServiceIntTest.submit_commits_transaction_when_updates_operation_status_when_execution_fail'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OperationExecutorServiceIntTest.submit_commits_transaction_when_updates_operation_status_when_execution_fail'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OperationExecutorServiceTest'">
@@ -1302,7 +1334,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>129</Count>
+          <Count>135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2006,7 +2038,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -2022,7 +2054,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>99</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ApiControllerIntTest'">
@@ -2558,7 +2590,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>118</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

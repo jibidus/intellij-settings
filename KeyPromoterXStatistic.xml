@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>221</Count>
+          <Count>227</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -334,7 +334,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>951</Count>
+          <Count>955</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -663,6 +663,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'DisturbanceReportServiceTest.should_generate_empty_report'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DisturbancesExportOperationExecutorTest.exportNewDisturbances'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DisturbancesExportOperationExecutorTest.exportNewDisturbances'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DisturbancesGenerationOperationExecutorTest'">
@@ -1070,7 +1078,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ReportControllerTest'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ReportControllerTest.exportStatisticsReport'">
@@ -2558,7 +2566,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">

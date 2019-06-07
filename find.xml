@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../power-siquael-service/siquael-service/src/main/java/com/netceler/ivpower/siquael/service/services/report/disturbance/MeasurementDisturbanceBlocGenerator.java [siquael-service]'" />
-    <option name="defaultScopeName" value="File '.../power-siquael-service/siquael-service/src/main/java/com/netceler/ivpower/siquael/service/services/report/disturbance/MeasurementDisturbanceBlocGenerator.java [siquael-service]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="File '.../power-siquael-service/siquael-service/src/main/java/com/netceler/ivpower/siquael/service/services/report/disturbance/MeasurementDisturbanceBlocGenerator.java [siquael-service]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>

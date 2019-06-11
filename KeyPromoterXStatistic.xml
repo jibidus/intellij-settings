@@ -374,7 +374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1114</Count>
+          <Count>1115</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -870,7 +870,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OperationExecutorServiceIntTest.cancel'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OperationExecutorServiceIntTest.submit_commits_transaction_and_updates_operation_status_even_if_execution_throws_an_exception'">
@@ -1686,7 +1686,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'OperationExecutorServiceIntTest.cancel'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'OperationExecutorServiceIntTest.submit_…us_even_if_execution_throws_an_exception'">

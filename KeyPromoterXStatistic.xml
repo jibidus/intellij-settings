@@ -873,6 +873,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OperationControllerIntTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OperationControllerIntTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'OperationControllerIntTest.operation_returns_not_found_when_no_operation_with_given_operation_id'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2495,6 +2503,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MeasurementDisturbanceBlocGeneratorTest.testGenerateXXXRunningThreshold'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OperationControllerIntTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'OperationControllerIntTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OperationControllerIntTest.operation_returns_not_found_when_no_operation_with_given_operation_id'">

@@ -398,7 +398,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1204</Count>
+          <Count>1207</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -2062,7 +2062,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Sogilis &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>33</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Sogilis &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'">
@@ -2078,7 +2078,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Sogilis &gt; SIQUAEL : Oracle LOCAL + Ftp LOCAL + ConfigManager REMOTE'</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'StatisticReportServiceTest'">
@@ -2862,7 +2862,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Sogilis &gt; PQGenerators : Oracle LOCAL + ConfigManager REMOTE'</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Sogilis &gt; SIQUAEL : Oracle LOCAL + ConfigManager REMOTE'">
@@ -2878,7 +2878,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Sogilis &gt; SIQUAEL : Oracle LOCAL + Ftp LOCAL + ConfigManager REMOTE'</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TrialRepositoryTest.findLastErrorMessage_returns_null_when_single_successful_trial'">

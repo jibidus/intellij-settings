@@ -414,7 +414,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1249</Count>
+          <Count>1254</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -1062,7 +1062,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OperationsApplicationE2ETest'</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OperationsApplicationE2ETest.cancelled_operation'">
@@ -1481,6 +1481,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'com.netceler.ivpower.operations.service.controllers in pqgenerators-operations'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'com.netceler.ivpower.operations.service.controllers in pqgenerators-operations'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'com.netceler.ivpower.siquael in siquael-service'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1870,7 +1878,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'OperationsApplicationE2ETest'</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'OperationsApplicationE2ETest.cancelled_operation'">
@@ -2094,7 +2102,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Sogilis &gt; SIQUAEL : Oracle LOCAL + Ftp LOCAL + ConfigManager REMOTE'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'StatisticReportServiceTest'">
@@ -2142,7 +2150,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'com.netceler.ivpower.operations.service.controllers''</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'com.netceler.ivpower.operations.service.repositories''">
@@ -2158,7 +2166,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'com.netceler.ivpower.operations.service.services''</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'com.netceler.ivpower.pqgenerators.service''">
@@ -2654,7 +2662,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'OperationsApplicationE2ETest'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OperationsApplicationE2ETest.cancelled_operation'">
@@ -2942,7 +2950,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Sogilis &gt; SIQUAEL : Oracle LOCAL + Ftp LOCAL + ConfigManager REMOTE'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TrialRepositoryTest.findLastErrorMessage_returns_null_when_single_successful_trial'">
@@ -2958,6 +2966,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'com.netceler.ivpower.operations in pqgenerators-operations'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'com.netceler.ivpower.operations.service.controllers in pqgenerators-operations'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'com.netceler.ivpower.operations.service.controllers in pqgenerators-operations'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

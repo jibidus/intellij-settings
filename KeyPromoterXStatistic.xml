@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>280</Count>
+          <Count>281</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -414,7 +414,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1259</Count>
+          <Count>1266</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -702,6 +702,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ApiControllerTest.operations_sorts_by_default_by_scheduledDate_desc'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ApiControllerTest.register_returns_400_when_invalid_attempt_count_given'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ApiControllerTest.register_returns_400_when_invalid_attempt_count_given'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

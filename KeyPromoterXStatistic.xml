@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>281</Count>
+          <Count>282</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -345,6 +345,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'register()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'register()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'register_with_firs...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -414,7 +422,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1266</Count>
+          <Count>1272</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -703,6 +711,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ApiControllerTest.operations_sorts_by_default_by_scheduledDate_desc'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ApiControllerTest.register'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ApiControllerTest.register'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ApiControllerTest.register_returns_400_when_invalid_attempt_count_given'">
@@ -2505,6 +2521,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ApiControllerTest.register'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ApiControllerTest.register'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ConfigurationUpdateIntTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2678,7 +2702,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'OperationsApplicationE2ETest'</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OperationsApplicationE2ETest.cancelled_operation'">
@@ -3110,7 +3134,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>193</Count>
+          <Count>194</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

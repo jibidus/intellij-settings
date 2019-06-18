@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../power-pqgenerators-service/pqgenerators-operations/src/main/java/com/netceler/ivpower/operations/service [pqgenerators-operations]'" />
-    <option name="defaultScopeName" value="Directory '.../power-pqgenerators-service/pqgenerators-operations/src/main/java/com/netceler/ivpower/operations/service [pqgenerators-operations]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="Directory '.../power-pqgenerators-service/pqgenerators-operations/src/main/java/com/netceler/ivpower/operations/service [pqgenerators-operations]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
